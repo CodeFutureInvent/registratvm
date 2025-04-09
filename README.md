@@ -1,5 +1,7 @@
 # Registratvm
 
+### PYTHON VERSION: 3.12.9 🐍
+
 Registratvm is a simple time-tracking Python tool designed to help users commit their task progress effectively.
 
 ## Table of Contents
